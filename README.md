@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Tamal Mazumder
+Currently working at Ha-Meem Group as a Software Engineer
 
 <!--
 **prematal2828/prematal2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
